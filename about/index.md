@@ -12,14 +12,12 @@ image:
 
 Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
-## Minimal Mistakes is all about:
+## Biodata:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Nama  : Agustiando Rahmat
+* NIM   : 11353100540
+* TTL   : Duri, 31 Agustus 1994
+* Kelas : SIF C
+* Smester : 6
+* [Uin Suska](http://uin-suska.ac.id/) to link Uin Suska Riau
+* [Sistem Informasi](http://sif.uin-suska.ac.id/) to link Sistem informasi
